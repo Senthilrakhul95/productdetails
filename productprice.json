@@ -1,7 +1,24 @@
-[
-  { "name": "Chair1", "price": 5000.0 },
-  { "name": "Chair2", "price": 2500.0 },
-  { "name": "Chair3", "price": 3600.0 },
-  { "name": "Chair4", "price": 7500.0 },
-  { "name": "Chair5", "price": 1000.0 }
-]
+{
+    "chairs": [
+        {
+            "name":"Chair_1",
+            "price":"1"
+        },
+		{
+            "name":"Chair_2",
+            "price":"2"
+        },
+		{
+            "name":"Chair_3",
+            "price":"3"
+        },
+		{
+            "name":"Chair_4",
+            "price":"4"
+        },
+		{
+            "name":"Chair_5",
+            "price":"5"
+        }
+    ]
+}
