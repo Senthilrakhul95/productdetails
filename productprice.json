@@ -2,23 +2,23 @@
     "chairs": [
         {
             "name":"Chair_1",
-            "price":"1"
+            "price":"1500"
         },
 		{
             "name":"Chair_2",
-            "price":"2"
+            "price":"3000"
         },
 		{
             "name":"Chair_3",
-            "price":"3"
+            "price":"4500"
         },
 		{
             "name":"Chair_4",
-            "price":"4"
+            "price":"2500"
         },
 		{
             "name":"Chair_5",
-            "price":"5"
+            "price":"1050"
         }
     ]
 }
